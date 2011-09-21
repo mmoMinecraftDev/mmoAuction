@@ -1,0 +1,8 @@
+name: mmoAuction
+main: mmo.Quest.MMOAuction
+version: 0.1
+website: http://forums.bukkit.org/threads/
+author: Rycochet <rycochet@rycochet.com>
+depend: [mmoCore]
+
+description: Standard mmo auction house.
