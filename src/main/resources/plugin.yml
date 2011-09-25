@@ -1,5 +1,5 @@
 name: mmoAuction
-main: mmo.Quest.MMOAuction
+main: mmo.Auction.MMOAuction
 version: 0.1
 website: http://forums.bukkit.org/threads/
 author: Rycochet <rycochet@rycochet.com>
