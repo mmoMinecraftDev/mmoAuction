@@ -1,8 +1,8 @@
 name: mmoAuction
-main: mmo.Auction.MMOAuction
-version: 0.1
-website: http://forums.bukkit.org/threads/
-author: Rycochet <rycochet@rycochet.com>
-depend: [Spout,mmoCore]
-
+version: ${releaseVersion} b${buildNumber}
 description: Standard mmo auction house.
+author: mmoMinecraftDev
+website: http://mmo.me.uk
+
+main: mmo.Auction.MMOAuction
+depend: [Spout, mmoCore]
