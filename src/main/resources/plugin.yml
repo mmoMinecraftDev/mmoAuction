@@ -1,5 +1,5 @@
 name: mmoAuction
-version: ${releaseVersion} b${buildNumber}
+version: ${releaseVersion}.${buildNumber}
 description: Standard mmo auction house.
 author: mmoMinecraftDev
 website: http://mmo.me.uk
